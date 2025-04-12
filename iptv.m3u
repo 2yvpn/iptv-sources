@@ -1,0 +1,100 @@
+#EXTINF:-1 tvg-id="SSport.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="Sports",S Sport
+https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="SSport2.tr" tvg-logo="https://i.imgur.com/2jIItAy.png" group-title="Sports",S Sport 2
+https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="IdmanTV.az" tvg-logo="https://i.imgur.com/fM9FOrZ.png" group-title="Sports",Idman TV
+https://str.yodacdn.net/idman/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports | 4K UHD",Sky Sports F1 UHD
+https://7pal.short.gy/SSF1uhd
+
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="Sports | UK", SkySports_MainEvent-FHD
+https://7pal.short.gy/SkSpMainE
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="Sports | UK", SkySports_PremierLeague-FHD
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="Sports | UK", SkySports_Football-FHD
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="Sports | UK", SkySports_F1-FHD
+https://7pal.short.gy/ssportsf1
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sports_Tennis.png" group-title="Sports | UK", SkySports_Tennis-FHD
+https://7pal.short.gy/ssportstn
+#EXTINF:-1 tvg-id="SkySp+.uk" tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sportsplus.png" group-title="Sports | UK", SkySports+FHD
+https://7pal.short.gy/ssportplus
+#EXTINF:-1 tvg-id="SkySp.Cricket.uk" tvg-logo="https://i.imgur.com/ZXq4kGB.png" group-title="Sports | UK", SkySports_Criket-FHD
+https://7pal.short.gy/ssportscrk
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/RKUHQi8.png" group-title="Sports | UK", SkySports_Golf-FHD
+https://7pal.short.gy/ssportsgf
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://i.imgur.com/buUigAI.png" group-title="Sports | UK", SkySports_News-FHD
+https://7pal.short.gy/ssportsnw
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://i.imgur.com/i1yzHZj.png" group-title="Sports | UK", SkySports_Action-FHD
+https://7pal.short.gy/ssportsat
+#EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-logo="https://pixvid.org/images/2025/01/23/ssports-bo.png" group-title="Sports | UK", SkySports_BoxOffice
+https://7pal.short.gy/ssportsbo
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://i.imgur.com/YhhfBno.png" group-title="Sports | UK", Eurosport 1 FHD
+https://7pal.short.gy/eusport1
+#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://i.imgur.com/3GbcYUG.png" group-title="Sports | UK", Eurosport 2 FHD 
+https://7pal.short.gy/eusport2
+#EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="Sports | 4K UHD",EuroSport 4K 
+https://7pal.short.gy/eusport4k
+
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="Sports | UK", TNT Sports 1 FHD
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Sports | UK", TNT Sports 2 FHD
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="Sports | UK", TNT Sports 3 FHD
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="Sports | UK", TNT Sports 4 FHD
+https://7pal.short.gy/tntspts4
+
+#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="Sports | NZ", Sky Sport1 NZ FHD
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="Sports | NZ", Sky Sport2 NZ FHD
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="Sports | NZ", Sky Sport3 NZ FHD
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="Sports | NZ", Sky Sport4 NZ FHD
+https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="Sports | NZ", Sky Sport5 NZ FHD
+https://7pal.short.gy/skyspt5nz
+#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="Sports | NZ", Sky Sport6 NZ FHD
+https://7pal.short.gy/skyspt6nz
+#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="Sports | NZ", Sky Sport7 NZ FHD
+https://7pal.short.gy/skyspt7nz
+#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="Sports | NZ", Sky Sport Premier League FHD
+https://7pal.short.gy/skyspt8nz
+
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Sports | 4K UHD",Sky Sports Main Event UHD
+https://7pal.short.gy/SSMEuhd
+#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/eb3S5pZ.png" group-title="Sports | 4K UHD",beIN 4K
+https://7pal.short.gy/bein-uhd
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://i.imgur.com/6EJdkR4.png" group-title="Sports | 4K UHD",TNT Sport Ultimate
+https://7pal.short.gy/TNTUltimate
+#EXTINF:-1 tvg-id="M+.LALIGA.TV.es" tvg-logo="https://i.imgur.com/26c7mQb.png" group-title="Sports | 4K UHD",M+LaLiga UHD 
+https://7pal.short.gy/mplusuhd
+
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2 (360p)
+https://tvpass.org/live/FoxSports2/sd
+#EXTINF:-1 tvg-id="FoxSports.us" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Sports",Fox Sports (720p)
+https://apollo.production-public.tubi.io/live/fox-sports.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlusSport1.cz" tvg-logo="https://i.imgur.com/Q3WjH1Q.png" group-title="Sports",Canal+ Sport
+http://78.130.250.2:8023/play/a02v/index.m3u8
+
+#EXTINF:30,FB TV
+#EXTVLCOPT:network-caching=1000
+http://stream.tvcdn.net/spor/fb-tv.m3u8
+
+#EXTINF:0,TRT Spor
+#EXTVLCOPT:network-caching=1000
+http://stream.tvcdn.net/spor/trt-spor.m3u8
+#EXTINF:0,TRT Spor Y#EXTVLCOPT:network-caching=1000
+http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
+#EXTINF:0,TRT 3 Spor
+#EXTVLCOPT:network-caching=1000
+http://stream.tvcdn.net/spor/trt-3-spor.m3u8
+#EXTINF:0,TRT SPOR YILDIZ
+#EXTVLCOPT:network-caching=1000
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
